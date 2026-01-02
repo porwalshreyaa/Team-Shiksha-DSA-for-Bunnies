@@ -41,4 +41,11 @@
 
 Note : Try out array reversal and rotate array by one place. These are pre-requisites for tomorrow's session.
 
+## Arrays(2 Jan 26)
+
+### Discussed
+
+1. [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+2. [Max Consecutive 1's](https://leetcode.com/problems/max-consecutive-ones/description/)
+
 ##
