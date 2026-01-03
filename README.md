@@ -47,5 +47,11 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 1. [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 2. [Max Consecutive 1's](https://leetcode.com/problems/max-consecutive-ones/description/)
+    #### [Excalidraw](https://excalidraw.com/#json=G27tROnf65aWFlyFux2bS,blUMDLGVcHAilrIyIM99UQ)
+
+### Assignments :
+
+1. [Plus One](https://leetcode.com/problems/plus-one/)
+2. [Rotate Array by N Elements](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)
 
 ##
