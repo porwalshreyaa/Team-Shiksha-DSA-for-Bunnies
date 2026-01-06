@@ -54,4 +54,14 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 1. [Plus One](https://leetcode.com/problems/plus-one/)
 2. [Rotate Array by N Elements](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)
 
-##
+## Arrays(5 Jan 26)
+
+### Discussed
+
+1. [Max no. of ones on flipping at most one zero](https://www.geeksforgeeks.org/dsa/max-number-of-one-ii/)
+    #### [Excalidraw](https://excalidraw.com/#json=TTAo2riDTLPlRc-TmCRoZ,N3mrgz19299jlpKYn8zTiA)
+
+### Assignments :
+
+1. [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)
+2. [Max no. of ones on flipping at most k zeroes](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1)
