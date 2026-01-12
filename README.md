@@ -65,3 +65,49 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 1. [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)
 2. [Max no. of ones on flipping at most k zeroes](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Arrays(8 Jan 26)
+
+### Discussed
+
+1. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)
+2. [Intersection of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1)
+    #### [Excalidraw](https://excalidraw.com/#json=ijRg-VZ28LJ7wmFSggucI,Cl-jVzo6cgBjv9N2E9ihqQ)
+
+### Assignments :
+
+1. [Remove Element](https://leetcode.com/problems/remove-element/)
+2. [Remove Duplicates from Sorted Array I](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
+## Arrays(9 Jan 26)
+
+### Discussed
+
+1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+2. [Leaders in Array](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
+    #### [Excalidraw](https://excalidraw.com/#json=FpUkHbdf4GpJlVWhiadLs,VOhng5y9UUGyUOPXTyMvEA)
+
+### Assignments :
+
+1. [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)
+2. [Intersection of two Arrays](https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1)
+3. [Intersection of two Arrays with Duplicate Elements](https://www.geeksforgeeks.org/problems/intersection-of-two-arrays-with-duplicate-elements/1)
+4. [Intersection of two Arrays with Distinct Elements](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-distinct-elements/1)
+
+
+
+
