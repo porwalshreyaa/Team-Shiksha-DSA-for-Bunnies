@@ -81,16 +81,16 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 ### Discussed
 
-1. [Set Mismatch](https://leetcode.com/problems/set-mismatch/)   |   [Not Done Yet]()
-2. [](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)   |   [Not Done Yet]()
+1. [Set Mismatch](https://leetcode.com/problems/set-mismatch/)   |   [Solution](./solutions/Session-7-7-Jan/Set_Mismatch.py)
+2. [Union of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)   |   [Solution](./solutions/Session-7-7-Jan/Union_of_Two_Sorted_Arrays.py)
     #### [Excalidraw](https://excalidraw.com/#json=3b1v2QjdJf1DcMqJR5o3q,A7xdoKBWq4q7uGpanqwsOg)
 
 ### Assignments :
 
-1. [](https://leetcode.com/problems/squares-of-a-sorted-array/description/)   |   [Not Done Yet]()
-2. [](https://leetcode.com/problems/merge-sorted-array/description/)   |   [Not Done Yet]()
-3. [](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-with-distinct-elements/1)   |   [Not Done Yet]()
-4. []()   |   [Not Done Yet]()
+1. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)   |   [Solution](./solutions/Session-7-7-Jan/Squares_of_a_Sorted_Array.py) -> MUST DO
+2. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)   |   [Solution](./solutions/Session-7-7-Jan/Merge_Sorted_Array.py)
+3. [Union of Two-Sorted-Arrays-with-Distinct-Elements](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-with-distinct-elements/1)   |   [Solution](./solutions/Session-7-7-Jan/Union_of_Two_Sorted_Arrays_with_Distinct_Elements.py)
+4. Sorted varient of Set Mismatch - Problem not Available   |   [No Solution Yet](./solutions/Session-7-7-Jan/Sorted_varient_of_Set_Mismatch.py)
 
 
 ## Session 8 - Arrays(8 Jan 26)
