@@ -66,16 +66,16 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 1. [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)   |   [Not Done Yet]()
 2. [Max no. of ones on flipping at most k zeroes](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1)   |   [Not Done Yet]()
 
-
 ## Session 6 - Arrays(6 Jan 26)
 
-.
-.
-.
-.
-.
+### Discussed
 
+1. [All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/description/)   |   [Not Done Yet]()
+    #### [Excalidraw](https://excalidraw.com/#json=_GtJLwrLJCiIbZU2RCQ-3,L7256Db_FPKbnBDvMtaQCg)
 
+### Assignments :
+
+1. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)   |   [Not Done Yet]()
 
 ## Session 7 - Arrays(7 Jan 26)
 
@@ -125,13 +125,14 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 ### Discussed
 
-1. [Smallest Difference pair of values between two unsorted Arrays](https://www.geeksforgeeks.org/dsa/smallest-difference-pair-values-two-unsorted-arrays/)   |   [Solution](./)
-2. [Two Sum](https://leetcode.com/problems/two-sum/description/)   |   [Solution](./)
+1. [Two Sum](https://leetcode.com/problems/two-sum/description/)   |   [Solution](./solutions/Session-10-12-Jan/Two_Sum.py)
+2. [Smallest Difference pair of values between two unsorted Arrays](https://www.geeksforgeeks.org/dsa/smallest-difference-pair-values-two-unsorted-arrays/)   |   Though it's an article, I still implemented my Solution  - [Solution](./solutions/Session-10-12-Jan/Smallest_Difference_Pair_of_Values_between_Two_Unsorted_Arrays.py)
+
     #### [Excalidraw](https://excalidraw.com/#json=uS_wLLM3p8321ujsjNC44,zziz_QwcjzN2Ri4PELtqkA)
 
-### Assignments :
+### Assignments (On it):
 
-1. [](https://www.geeksforgeeks.org/problems/key-pair5616/1)   |   [Solution](./)
-2. [](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)   |   [Solution](./)
-3. [](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1)   |   [Solution](./)
-4. [](https://www.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/1)   |   [Solution](./)
+1. [Key Pair](https://www.geeksforgeeks.org/problems/key-pair5616/1) (Two Sum - Pair with Given Sum)   |   [Solution](./solutions/Session-10-12-Jan/Key_Pair_Two_Sum.py)
+2. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)   |   [Solution](./solutions/Session-10-12-Jan/Two_Sum_Sorted.py)
+3. [Count pairs with given sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1)   |   [Solution](./solutions/Session-10-12-Jan/Count_Pairs_with_given_Sum.py)
+4. [Find the closest pair from two Arrays](https://www.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/1)   |   [Solution](./solutions/Session-10-12-Jan/Find_the_Closest_Pair_from_Two_Arrays.py)
