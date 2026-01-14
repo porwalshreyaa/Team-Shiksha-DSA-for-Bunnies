@@ -133,8 +133,8 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 ### Assignments (On it):
 
 1. [Key Pair](https://www.geeksforgeeks.org/problems/key-pair5616/1) (Two Sum - Pair with Given Sum)   |   [Solution](./solutions/Session-10-12-Jan/Key_Pair_Two_Sum.py)
-2. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)   |   [Solution](./solutions/Session-10-12-Jan/Two_Sum_Sorted.py)
-3. [Count pairs with given sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1)   |   [Solution](./solutions/Session-10-12-Jan/Count_Pairs_with_given_Sum.py)
+2. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)   (   took help from gfg [article](https://www.geeksforgeeks.org/dsa/pair-with-given-sum-in-sorted-array-two-sum-ii/)   )   |   [Solution](./solutions/Session-10-12-Jan/Two_Sum_Sorted.py)
+3. [Count pairs with given sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1)    (didn't understand the intuition behind optimized solution - [in this article](https://www.geeksforgeeks.org/dsa/count-pairs-with-given-sum/))   |   [Solution](./solutions/Session-10-12-Jan/Count_Pairs_with_given_Sum.py)
 4. [Find the closest pair from two Arrays](https://www.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/1)   |   [Solution](./solutions/Session-10-12-Jan/Find_the_Closest_Pair_from_Two_Arrays.py)
 
 ## Session 11 - Arrays(13 Jan 26)
