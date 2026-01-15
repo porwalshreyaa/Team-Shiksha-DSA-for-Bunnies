@@ -151,3 +151,35 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 1. [Find all pairs with a given sum](https://www.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1)   |   [Not Done Yet](./solutions/Session-11-13-Jan/)
 2. [Reverse a string with spaces intact](https://www.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1)   |   [Not Done Yet](./solutions/Session-11-13-Jan/)
 3. [Count Pairs whose sum is less than target](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-less-than-target/1)   |   [Not Done Yet](./solutions/Session-11-13-Jan/)
+
+
+## Session 12 - Arrays(14 Jan 26)
+
+### Discussed
+
+1. [Three Sum](https://leetcode.com/problems/3sum/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/)
+2. [Sort Colors](https://leetcode.com/problems/sort-colors/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/)
+
+    #### [Excalidraw](https://excalidraw.com/#json=q7Srxham8xgU-MNNDNuFz,BX3UkZ58nG6GYKK3MgbK8Q)
+
+### Assignments (On it):
+
+1. [](https://www.geeksforgeeks.org/problems/pair-in-array-whose-sum-is-closest-to-x1124/1)   |   [Not Done Yet](./solutions/Session-12-14-Jan/)
+2. [](https://leetcode.com/problems/3sum-closest/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/)
+3. [](https://leetcode.com/problems/4sum/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/)
+
+
+## Session 13 - Arrays(15 Jan 26)
+
+### Discussed
+
+1. [](https://leetcode.com/problems/majority-element/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
+2. [](https://leetcode.com/problems/majority-element-ii/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
+
+    #### [Excalidraw](https://excalidraw.com/#json=JOnr-GM386NJS2qYVwR1Y,dbLeE3ikY7-8rXNm4ODD_g)
+
+### Assignments (On it):
+
+1. [](https://leetcode.com/problems/compare-version-numbers/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
+2. [](https://leetcode.com/problems/reverse-words-in-a-string/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
+3. [](https://leetcode.com/problems/valid-palindrome/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
