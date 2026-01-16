@@ -130,7 +130,7 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
     #### [Excalidraw](https://excalidraw.com/#json=uS_wLLM3p8321ujsjNC44,zziz_QwcjzN2Ri4PELtqkA)
 
-### Assignments (On it):
+### Assignments :
 
 1. [Key Pair](https://www.geeksforgeeks.org/problems/key-pair5616/1) (Two Sum - Pair with Given Sum)   |   [Solution](./solutions/Session-10-12-Jan/Key_Pair_Two_Sum.py)
 2. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)   (   took help from gfg [article](https://www.geeksforgeeks.org/dsa/pair-with-given-sum-in-sorted-array-two-sum-ii/)   )   |   [Solution](./solutions/Session-10-12-Jan/Two_Sum_Sorted.py)
@@ -146,11 +146,11 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
     #### [Excalidraw](https://excalidraw.com/#json=lxAgGz6qvc-wdEhkPCks0,AEAOp4qxOK1gxsT9o3UEng)
 
-### Assignments (On it):
+### Assignments :
 
 1. [Find all pairs with a given sum](https://www.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1)   |   [Solution](./solutions/Session-11-13-Jan/Find_all_pairs_with_a_given_sum_unsorted.py)
-2. [Reverse a string with spaces intact](https://www.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1)   |   [Not Done Yet](./solutions/Session-11-13-Jan/)
-3. [Count Pairs whose sum is less than target](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-less-than-target/1)   |   [Not Done Yet](./solutions/Session-11-13-Jan/)
+2. [Reverse a string with spaces intact](https://www.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1)   |   [Solution](./solutions/Session-11-13-Jan/Reverse_a_String_with_Spaces_Intact.py)
+3. [Count Pairs whose sum is less than target](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-less-than-target/1)   |   [Solution](./solutions/Session-11-13-Jan/Count_Pairs_Whose_Sum_is_Less_Than_Target.py)
 
 
 ## Session 12 - Arrays(14 Jan 26)
