@@ -141,14 +141,14 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 ### Discussed
 
-1. [Product Pair](https://www.geeksforgeeks.org/problems/equal-to-product3836/1)   |   [Not Done Yet](./solutions/Session-11-13-Jan/)
-2. [Pair Sum Closest to 0](https://www.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero1737/1)   |   [Not Done Yet](./solutions/Session-11-13-Jan/)
+1. [Product Pair](https://www.geeksforgeeks.org/problems/equal-to-product3836/1)   |   [Solution](./solutions/Session-11-13-Jan/Product_Pair.py)
+2. [Pair Sum Closest to 0](https://www.geeksforgeeks.org/problems/two-numbers-with-sum-closest-to-zero1737/1)   |   [Solution](./solutions/Session-11-13-Jan/Pair_Sum_Closest_to_0.py)
 
     #### [Excalidraw](https://excalidraw.com/#json=lxAgGz6qvc-wdEhkPCks0,AEAOp4qxOK1gxsT9o3UEng)
 
 ### Assignments (On it):
 
-1. [Find all pairs with a given sum](https://www.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1)   |   [Not Done Yet](./solutions/Session-11-13-Jan/)
+1. [Find all pairs with a given sum](https://www.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1)   |   [Solution](./solutions/Session-11-13-Jan/Find_all_pairs_with_a_given_sum_unsorted.py)
 2. [Reverse a string with spaces intact](https://www.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1)   |   [Not Done Yet](./solutions/Session-11-13-Jan/)
 3. [Count Pairs whose sum is less than target](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-less-than-target/1)   |   [Not Done Yet](./solutions/Session-11-13-Jan/)
 
