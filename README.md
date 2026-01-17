@@ -157,16 +157,16 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 ### Discussed
 
-1. [Three Sum](https://leetcode.com/problems/3sum/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/)
-2. [Sort Colors](https://leetcode.com/problems/sort-colors/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/)
+1. [Three Sum](https://leetcode.com/problems/3sum/description/)   |   [Solution](./solutions/Session-12-14-Jan/Three_Sum.py)
+2. [Sort Colors](https://leetcode.com/problems/sort-colors/description/)   |   [Solution](./solutions/Session-12-14-Jan/Sort_Colors.py)
 
     #### [Excalidraw](https://excalidraw.com/#json=q7Srxham8xgU-MNNDNuFz,BX3UkZ58nG6GYKK3MgbK8Q)
 
-### Assignments (On it):
+### Assignments :
 
-1. [](https://www.geeksforgeeks.org/problems/pair-in-array-whose-sum-is-closest-to-x1124/1)   |   [Not Done Yet](./solutions/Session-12-14-Jan/)
-2. [](https://leetcode.com/problems/3sum-closest/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/)
-3. [](https://leetcode.com/problems/4sum/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/)
+1. [Sum Pair closest to target](https://www.geeksforgeeks.org/problems/pair-in-array-whose-sum-is-closest-to-x1124/1)   |   [Not Done Yet](./solutions/Session-12-14-Jan/Sum_Pair_Closest_to_Target.py)
+2. [3 Sum Closest](https://leetcode.com/problems/3sum-closest/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/3_Sum_Closest.py)
+3. [4 Sum](https://leetcode.com/problems/4sum/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/4_Sum.py)
 
 
 ## Session 13 - Arrays(15 Jan 26)
