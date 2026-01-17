@@ -164,7 +164,7 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 ### Assignments :
 
-1. [Sum Pair closest to target](https://www.geeksforgeeks.org/problems/pair-in-array-whose-sum-is-closest-to-x1124/1)   |   [Not Done Yet](./solutions/Session-12-14-Jan/Sum_Pair_Closest_to_Target.py)
+1. [Sum Pair closest to target](https://www.geeksforgeeks.org/problems/pair-in-array-whose-sum-is-closest-to-x1124/1)   |   [Solution](./solutions/Session-12-14-Jan/Sum_Pair_Closest_to_Target.py)
 2. [3 Sum Closest](https://leetcode.com/problems/3sum-closest/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/3_Sum_Closest.py)
 3. [4 Sum](https://leetcode.com/problems/4sum/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/4_Sum.py)
 
