@@ -173,13 +173,21 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 ### Discussed
 
-1. [](https://leetcode.com/problems/majority-element/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
-2. [](https://leetcode.com/problems/majority-element-ii/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
+1. [Majority Element](https://leetcode.com/problems/majority-element/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
+2. [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
 
     #### [Excalidraw](https://excalidraw.com/#json=JOnr-GM386NJS2qYVwR1Y,dbLeE3ikY7-8rXNm4ODD_g)
 
 ### Assignments (On it):
 
-1. [](https://leetcode.com/problems/compare-version-numbers/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
-2. [](https://leetcode.com/problems/reverse-words-in-a-string/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
-3. [](https://leetcode.com/problems/valid-palindrome/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
+1. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/Compare_Version_Numbers.py)
+2. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/Reverse_Words_in_a_String.py)
+3. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/Valid_Palindrome.py)
+
+## Session 14 - Arrays(16 Jan 26)
+
+### Discussed
+
+1. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)   |   [Solution](./solutions/Session-14-16-Jan/Next_Permutation.py)
+
+    #### [Excalidraw](https://excalidraw.com/#json=VtFir96cV2eOvgkbwk5-6,fwYDztSpONN83A9jtzCiug)
