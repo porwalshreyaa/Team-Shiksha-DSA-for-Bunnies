@@ -194,8 +194,51 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 ## Session 15 - HashTable(20 Jan 26)
 
-### Discussed
-- HashTable Data Structure [Leetcode Modules to Read](https://leetcode.com/explore/learn/card/hash-table/)
-    #### [Excalidraw]()
+### Discussed (Leetcode Modules to Read)
+- [HashTable - Data Structure](https://leetcode.com/explore/learn/card/hash-table/)
+- [Hash Set](https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1109/)
+- [Hash Map](https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1110/)
+
+    #### [Excalidraw](https://excalidraw.com/#json=8WdxI_B_CsGov4qeBQn9u,YiCbMzVSltzduA97vOquww)
+
+### Assignment Problems (On it):
+
+1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+2. [Single Number](https://leetcode.com/problems/single-number/description/)
 
 #### Consistent Hashing: [someone shared Youtube resource](https://youtu.be/jqUNbqfsnuw?si=36rEUlZVYhHxt4Pz)
+
+## Session 16 - Hashing and Collision Discussion(21 Jan 26)
+
+### Load Factor & Rehashing :
+
+1. [Hashing - GFG](https://www.geeksforgeeks.org/dsa/introduction-to-hashing-2/)
+
+### Collision Resolution :
+
+1. [Collision Resolution Techniques](https://www.geeksforgeeks.org/dsa/collision-resolution-techniques/)
+2. [Separate Chaining](https://www.geeksforgeeks.org/dsa/separate-chaining-collision-handling-technique-in-hashing/)
+3. [Open Addressing](https://www.geeksforgeeks.org/dsa/open-addressing-collision-handling-technique-in-hashing/)
+4. [Implementing Hash Table - Open Addressing (Linear Probing)](https://www.geeksforgeeks.org/dsa/implementing-hash-table-open-addressing-linear-probing-cpp/)
+
+    #### [Excalidraw](https://excalidraw.com/#json=qwIyfAMnsnuESjSqfBGOF,-Sq8sdzZX0Az6U4oURKYzg)
+
+## Session 17 - Hashing and Collision Discussion(22 jan 26)
+
+### Theory :
+1. [Quadratic Probing](https://www.geeksforgeeks.org/dsa/quadratic-probing-in-hashing/)
+2. [Double Hashing](https://www.geeksforgeeks.org/dsa/double-hashing/)
+
+### Coding Problem :
+
+1. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)y
+
+## Session 18 - Hashing and Collision Discussion(23 jan 26)
+
+### Coding Problem :
+
+1. [Design a Hash Set](https://leetcode.com/problems/design-hashset/)
+    #### [Excalidraw](https://excalidraw.com/#json=GBEvIgk1XNLmye7IRSWf7,ARNEHKWuMhg7wkr1y8MTEg)
+
+- Implemented using one-to-one mapping (no collisions)
+- Implemented using separate chaining to resolve collisions.
