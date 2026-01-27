@@ -173,8 +173,8 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 ### Discussed
 
-1. [Majority Element](https://leetcode.com/problems/majority-element/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
-2. [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/)
+1. [Majority Element](https://leetcode.com/problems/majority-element/description/)   |   [Solution](./solutions/Session-13-15-Jan/Majority_Element.py)
+2. [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)   |   [Solution](./solutions/Session-13-15-Jan/Majority_Element_II.py)
 
     #### [Excalidraw](https://excalidraw.com/#json=JOnr-GM386NJS2qYVwR1Y,dbLeE3ikY7-8rXNm4ODD_g)
 
