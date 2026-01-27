@@ -165,8 +165,8 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 ### Assignments :
 
 1. [Sum Pair closest to target](https://www.geeksforgeeks.org/problems/pair-in-array-whose-sum-is-closest-to-x1124/1)   |   [Solution](./solutions/Session-12-14-Jan/Sum_Pair_Closest_to_Target.py)
-2. [3 Sum Closest](https://leetcode.com/problems/3sum-closest/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/3_Sum_Closest.py)
-3. [4 Sum](https://leetcode.com/problems/4sum/description/)   |   [Not Done Yet](./solutions/Session-12-14-Jan/4_Sum.py)
+2. [3 Sum Closest](https://leetcode.com/problems/3sum-closest/description/)   |   [Solution](./solutions/Session-12-14-Jan/3_Sum_Closest.py)
+3. [4 Sum](https://leetcode.com/problems/4sum/description/)   |   [Solution](./solutions/Session-12-14-Jan/4_Sum.py)
 
 
 ## Session 13 - Arrays(15 Jan 26)
@@ -191,3 +191,11 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 1. [Next Permutation](https://leetcode.com/problems/next-permutation/description/)   |   [Solution](./solutions/Session-14-16-Jan/Next_Permutation.py)
 
     #### [Excalidraw](https://excalidraw.com/#json=VtFir96cV2eOvgkbwk5-6,fwYDztSpONN83A9jtzCiug)
+
+## Session 15 - HashTable(20 Jan 26)
+
+### Discussed
+- HashTable Data Structure [Leetcode Modules to Read](https://leetcode.com/explore/learn/card/hash-table/)
+    #### [Excalidraw]()
+
+#### Consistent Hashing: [someone shared Youtube resource](https://youtu.be/jqUNbqfsnuw?si=36rEUlZVYhHxt4Pz)
