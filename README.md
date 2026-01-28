@@ -242,3 +242,10 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
 - Implemented using one-to-one mapping (no collisions)
 - Implemented using separate chaining to resolve collisions.
+
+## Session 19 - Hashing and Array(27 jan 26)
+
+### Discussed
+
+1. [Longest Sub Array with K sum](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+    #### [Excalidraw]()
