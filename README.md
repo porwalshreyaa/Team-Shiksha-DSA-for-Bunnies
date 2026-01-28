@@ -178,11 +178,11 @@ Note : Try out array reversal and rotate array by one place. These are pre-requi
 
     #### [Excalidraw](https://excalidraw.com/#json=JOnr-GM386NJS2qYVwR1Y,dbLeE3ikY7-8rXNm4ODD_g)
 
-### Assignments (On it):
+### Assignments - Strings:
 
-1. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/Compare_Version_Numbers.py)
-2. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/Reverse_Words_in_a_String.py)
-3. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)   |   [Not Done Yet](./solutions/Session-13-15-Jan/Valid_Palindrome.py)
+1. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)   |   [Could Only Write Brute Force](./solutions/Session-13-15-Jan/Compare_Version_Numbers.py)
+2. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)   |   [Solution](./solutions/Session-13-15-Jan/Reverse_Words_in_a_String.py)
+3. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)   |   [Solution](./solutions/Session-13-15-Jan/Valid_Palindrome.py)
 
 ## Session 14 - Arrays(16 Jan 26)
 
