@@ -23,7 +23,7 @@
 1. [Longest k Unique Characters Substring](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)   |   [Solution]()
 2. [Distinct Characters](https://www.naukri.com/code360/problems/distinct-characters_2221410)   |   [Solution]()
 
-## Session 23 - Array(2 Feb 26) (Pending)
+## Session 23 - Array(2 Feb 26) (Brainstorming...)
 
 ### Discussed
 
@@ -34,7 +34,7 @@
 
 1. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)   |   [Solution](./solutions/Session-23-2-Feb/Repeated_DNA_Sequences.py)
 
-## Session 24 - Binary Search(3 Feb 26) (Pending)
+## Session 24 - Binary Search(3 Feb 26)
 
 ### Discussed
 
@@ -44,3 +44,46 @@
 ### Assignment Problems:
 
 1. [Search Insert Position of k in a Sorted Array](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1)   |   [Solution](./solutions/Session-24-3-Feb/search_insert_position_of_k_in_sorted_array.py)
+
+## Session 25 - Binary Search(4 Feb 26)
+
+### Discussed
+
+1. [Capacity to ship packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+    #### [Excalidraw](https://excalidraw.com/#json=vTo03307kcFlfi8YLlh5U,L7yAHbDPVSTPRzmiyfff9Q)
+
+### Assignment Problems:
+
+1. [Implement Lower Bound](https://www.geeksforgeeks.org/problems/implement-lower-bound/1)
+
+2. [Implement Upper Bound](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)
+
+## Session 26 - Binary Search(5 Feb 26)
+
+### Discussed
+
+1. [Cutting Ribbons](https://algo.monster/liteproblems/1891)
+
+    #### [Excalidraw](https://excalidraw.com/#json=tVJDdLaF7UznYpeM07Gj1,n6Yg5mtffud8cgmzlMYdvw)
+
+### Assignemnt Problems:
+
+1. [Count Complete Subarrays](https://leetcode.com/problems/count-complete-subarrays-in-an-array/)
+
+
+## Session 27 - Binary Search(6 Feb 26)
+
+### Discussed
+
+1. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+    #### [Excalidraw](https://excalidraw.com/#json=HHUn9XbeXqEIubdMdDLY1,zJVjVvuctomatTnxYDFr5Q)
+
+### Assignment Problems:
+
+1. [Find first and last position of element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+
+2. [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1)
+
+3. Variation on top of [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+    - Each column is sorted in non-decreasing order.
+    - The first integer of each col is greater than the last integer of the previous col.
