@@ -45,11 +45,11 @@
 
 1. [Search Insert Position of k in a Sorted Array](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1)   |   [Solution](./solutions/Session-24-3-Feb/search_insert_position_of_k_in_sorted_array.py)
 
-## Session 25 - Binary Search(4 Feb 26)
+## Session 25 - Binary Search(4 Feb 26) (Pending)
 
 ### Discussed
 
-1. [Capacity to ship packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+1. [Capacity to ship packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)   -   [Youtube link for revision](https://www.youtube.com/watch?v=MG-Ac4TAvTY)   |   [Solution](./solutions/Session-25-4-Feb/capacity_to_ship.py)
     #### [Excalidraw](https://excalidraw.com/#json=vTo03307kcFlfi8YLlh5U,L7yAHbDPVSTPRzmiyfff9Q)
 
 ### Assignment Problems:
@@ -58,7 +58,7 @@
 
 2. [Implement Upper Bound](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)
 
-## Session 26 - Binary Search(5 Feb 26)
+## Session 26 - Binary Search(5 Feb 26) (Pending)
 
 ### Discussed
 
@@ -71,7 +71,7 @@
 1. [Count Complete Subarrays](https://leetcode.com/problems/count-complete-subarrays-in-an-array/)
 
 
-## Session 27 - Binary Search(6 Feb 26)
+## Session 27 - Binary Search(6 Feb 26) (Pending)
 
 ### Discussed
 
