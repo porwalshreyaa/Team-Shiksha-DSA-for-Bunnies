@@ -45,7 +45,7 @@
 
 1. [Search Insert Position of k in a Sorted Array](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1)   |   [Solution](./solutions/Session-24-3-Feb/search_insert_position_of_k_in_sorted_array.py)
 
-## Session 25 - Binary Search(4 Feb 26) (Pending)
+## Session 25 - Binary Search(4 Feb 26)
 
 ### Discussed
 
@@ -54,9 +54,9 @@
 
 ### Assignment Problems:
 
-1. [Implement Lower Bound](https://www.geeksforgeeks.org/problems/implement-lower-bound/1)
+1. [Implement Lower Bound](https://www.geeksforgeeks.org/problems/implement-lower-bound/1)   |   [Solution](./solutions/Session-25-4-Feb/implement_lower_bound.py)
 
-2. [Implement Upper Bound](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)
+2. [Implement Upper Bound](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)   |   [Solution](./solutions/Session-25-4-Feb/implement_upper_bound.py)
 
 ## Session 26 - Binary Search(5 Feb 26) (Pending)
 
